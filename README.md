@@ -1,0 +1,2 @@
+# Kinesis-Video-Library
+treamingMkvReader: This class reads specified MKV elements from a video stream.  FragmentMetadataVisitor: This class retrieves metadata for fragments (media elements) and tracks (individual data streams containing media information, such as audio or subtitles).  OutputSegmentMerger: This class merges consecutive fragments or chunks in a video stream.  KinesisVideoExample: This is a sample application that shows how to use the Kinesis Video Stream Parser Library.
